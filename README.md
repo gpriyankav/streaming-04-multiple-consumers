@@ -54,13 +54,21 @@ Worker B picks up "Second message" and starts processing it. </br>
 Worker A completes "First message." </br>
 Worker B completes "Second message." </br>
 Worker A picks up "Third message" and starts processing it...and soon, process continues.</br>
-Monitor the windows with at least two workers. 
-Which worker gets which tasks?
-
+Monitor the windows with at least two workers. </br>
+Which worker gets which tasks? Can't say exactly.Its choosing randomly i guess. </br>
 
 ## Reference
 
 - [RabbitMQ Tutorial - Work Queues](https://www.rabbitmq.com/tutorials/tutorial-two-python.html)
+
+## Your Project - Version 3 - Automating the Tasks
+
+In this part, you'll build a Version 3 much like Version 2, except - instead of getting messages from the console the producer will read from tasks.csv. Much easier for the human! Multiple workers will retrieve the messages as they do in version 2. </br>
+
+1. Copied the Version 2 files(emitter and listener) to start version 3(v3_emitter_of_tasks and v3_listening_worker).  </br>
+2. Read the input file "tasks.csv" instead of the console.</br>
+3. Should you hardcode the data filename? Or would it be helpful to assign the filename to a variable? it will be helpful to assign the filename to a variable. </br>
+4. Added more records to tasks.csv file. </br>
 
 
 ## Screenshot
