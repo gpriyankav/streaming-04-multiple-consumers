@@ -1,0 +1,26 @@
+2023-09-15 11:59:28,856.v3_listening_worker.INFO ==================================================
+2023-09-15 11:59:28,857.v3_listening_worker.INFO Today is 2023-09-15 at 11:59 AM
+2023-09-15 11:59:28,857.v3_listening_worker.INFO Running on: nt Windows 10
+2023-09-15 11:59:28,857.v3_listening_worker.INFO Python version:  3.10.8
+2023-09-15 11:59:28,858.v3_listening_worker.INFO Python path: C:\Users\KONGA\miniconda3
+2023-09-15 11:59:28,858.v3_listening_worker.INFO Working dir: C:\Users\KONGA\Documents\streaming-04-multiple-consumers
+2023-09-15 11:59:28,859.v3_listening_worker.INFO ==================================================
+2023-09-15 11:59:28,888.v3_listening_worker.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-15 11:59:28,889.v3_listening_worker.INFO  [x] Received ['First task....']
+2023-09-15 11:59:32,902.v3_listening_worker.INFO  [x] Done.
+2023-09-15 11:59:32,907.v3_listening_worker.INFO  [x] Received ['Second task....']
+2023-09-15 11:59:36,911.v3_listening_worker.INFO  [x] Done.
+2023-09-15 11:59:36,915.v3_listening_worker.INFO  [x] Received ['Third task....']
+2023-09-15 11:59:40,921.v3_listening_worker.INFO  [x] Done.
+2023-09-15 11:59:40,924.v3_listening_worker.INFO  [x] Received ['Forth task...']
+2023-09-15 11:59:43,935.v3_listening_worker.INFO  [x] Done.
+2023-09-15 11:59:43,939.v3_listening_worker.INFO  [x] Received ['Fifth task...']
+2023-09-15 11:59:46,953.v3_listening_worker.INFO  [x] Done.
+2023-09-15 11:59:46,957.v3_listening_worker.INFO  [x] Received ['Sixth task...']
+2023-09-15 11:59:49,973.v3_listening_worker.INFO  [x] Done.
+2023-09-15 11:59:49,976.v3_listening_worker.INFO  [x] Received ['Seventh task......']
+2023-09-15 11:59:55,990.v3_listening_worker.INFO  [x] Done.
+2023-09-15 11:59:55,994.v3_listening_worker.INFO  [x] Received ['Eight task.........']
+2023-09-15 12:00:03,446.v3_listening_worker.INFO 
+Closing connection. Goodbye.
+

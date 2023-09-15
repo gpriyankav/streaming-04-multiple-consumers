@@ -1,0 +1,13 @@
+2023-09-15 11:55:50,647.v2_listening_worker.INFO ==================================================
+2023-09-15 11:55:50,647.v2_listening_worker.INFO Today is 2023-09-15 at 11:55 AM
+2023-09-15 11:55:50,648.v2_listening_worker.INFO Running on: nt Windows 10
+2023-09-15 11:55:50,648.v2_listening_worker.INFO Python version:  3.10.8
+2023-09-15 11:55:50,648.v2_listening_worker.INFO Python path: C:\Users\KONGA\miniconda3
+2023-09-15 11:55:50,648.v2_listening_worker.INFO Working dir: C:\Users\KONGA\Documents\streaming-04-multiple-consumers
+2023-09-15 11:55:50,649.v2_listening_worker.INFO ==================================================
+2023-09-15 11:55:50,678.v2_listening_worker.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-15 11:55:50,678.v2_listening_worker.INFO  [x] Received Fifth task.....
+2023-09-15 11:55:55,694.v2_listening_worker.INFO  [x] Done.
+2023-09-15 11:57:55,702.v2_listening_worker.INFO 
+Closing connection. Goodbye.
+

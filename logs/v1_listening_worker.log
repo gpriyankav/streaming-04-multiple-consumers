@@ -1,0 +1,19 @@
+2023-09-14 10:18:37,590.v1_listening_worker.INFO ==================================================
+2023-09-14 10:18:37,591.v1_listening_worker.INFO Today is 2023-09-14 at 10:18 AM
+2023-09-14 10:18:37,592.v1_listening_worker.INFO Running on: nt Windows 10
+2023-09-14 10:18:37,592.v1_listening_worker.INFO Python version:  3.10.8
+2023-09-14 10:18:37,593.v1_listening_worker.INFO Python path: C:\Users\KONGA\miniconda3
+2023-09-14 10:18:37,593.v1_listening_worker.INFO Working dir: C:\Users\KONGA\Documents\streaming-04-multiple-consumers
+2023-09-14 10:18:37,593.v1_listening_worker.INFO ==================================================
+2023-09-14 10:18:37,610.v1_listening_worker.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-14 10:18:37,613.v1_listening_worker.INFO  [x] Received This is updated first task in module 4 of streaming data course...
+2023-09-14 10:18:40,621.v1_listening_worker.INFO  [x] Done
+2023-09-14 10:18:40,624.v1_listening_worker.INFO  [x] Received This is updated first task in module 4 of streaming data course...
+2023-09-14 10:18:43,627.v1_listening_worker.INFO  [x] Done
+2023-09-14 10:18:43,630.v1_listening_worker.INFO  [x] Received This is updated first task in module 4 of streaming data course...
+2023-09-14 10:18:46,645.v1_listening_worker.INFO  [x] Done
+2023-09-14 10:18:46,649.v1_listening_worker.INFO  [x] Received This is updated first task in module 4 of streaming data course...
+2023-09-14 10:18:49,651.v1_listening_worker.INFO  [x] Done
+2023-09-14 10:18:49,654.v1_listening_worker.INFO  [x] Received This is updated first task in module 4 of streaming data course...
+2023-09-14 10:18:52,671.v1_listening_worker.INFO  [x] Done
+2023-09-14 10:18:57,687.v1_listening_worker.INFO Interrupted

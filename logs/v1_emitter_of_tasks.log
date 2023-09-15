@@ -1,0 +1,10 @@
+2023-09-15 11:01:31,161.v1_emitter_of_tasks.INFO ==================================================
+2023-09-15 11:01:31,162.v1_emitter_of_tasks.INFO Today is 2023-09-15 at 11:01 AM
+2023-09-15 11:01:31,162.v1_emitter_of_tasks.INFO Running on: nt Windows 10
+2023-09-15 11:01:31,162.v1_emitter_of_tasks.INFO Python version:  3.10.8
+2023-09-15 11:01:31,163.v1_emitter_of_tasks.INFO Python path: C:\Users\KONGA\miniconda3
+2023-09-15 11:01:31,163.v1_emitter_of_tasks.INFO Working dir: C:\Users\KONGA\Documents\streaming-04-multiple-consumers
+2023-09-15 11:01:31,164.v1_emitter_of_tasks.INFO ==================================================
+2023-09-15 11:01:33,823.v1_emitter_of_tasks.INFO Started...
+2023-09-15 11:01:33,960.v1_emitter_of_tasks.INFO Answer is y
+2023-09-15 11:01:33,984.v1_emitter_of_tasks.INFO  [x] Sent This is updated first task in module 4 of streaming data course...

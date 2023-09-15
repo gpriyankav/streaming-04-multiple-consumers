@@ -1,0 +1,10 @@
+2023-09-15 11:55:20,357.v2_emitter_of_tasks.INFO ==================================================
+2023-09-15 11:55:20,358.v2_emitter_of_tasks.INFO Today is 2023-09-15 at 11:55 AM
+2023-09-15 11:55:20,358.v2_emitter_of_tasks.INFO Running on: nt Windows 10
+2023-09-15 11:55:20,358.v2_emitter_of_tasks.INFO Python version:  3.10.8
+2023-09-15 11:55:20,358.v2_emitter_of_tasks.INFO Python path: C:\Users\KONGA\miniconda3
+2023-09-15 11:55:20,358.v2_emitter_of_tasks.INFO Working dir: C:\Users\KONGA\Documents\streaming-04-multiple-consumers
+2023-09-15 11:55:20,358.v2_emitter_of_tasks.INFO ==================================================
+2023-09-15 11:55:23,552.v2_emitter_of_tasks.INFO started...
+2023-09-15 11:55:23,710.v2_emitter_of_tasks.INFO Answer is: y.
+2023-09-15 11:55:23,748.v2_emitter_of_tasks.INFO  [x] Sent Fifth task.....
